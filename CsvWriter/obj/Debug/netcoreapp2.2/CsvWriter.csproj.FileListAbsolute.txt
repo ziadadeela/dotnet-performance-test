@@ -1,0 +1,9 @@
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\bin\Debug\netcoreapp2.2\CsvWriter.deps.json
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\bin\Debug\netcoreapp2.2\CsvWriter.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\bin\Debug\netcoreapp2.2\CsvWriter.pdb
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.csprojAssemblyReference.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.csproj.CoreCompileInputs.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.AssemblyInfoInputs.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.AssemblyInfo.cs
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriter\obj\Debug\netcoreapp2.2\CsvWriter.pdb

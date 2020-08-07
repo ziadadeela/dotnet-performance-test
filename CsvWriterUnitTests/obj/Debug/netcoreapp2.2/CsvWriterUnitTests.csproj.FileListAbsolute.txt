@@ -1,0 +1,17 @@
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.csprojAssemblyReference.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.AssemblyInfoInputs.cache
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.AssemblyInfo.cs
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriterUnitTests.deps.json
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriterUnitTests.runtimeconfig.json
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriterUnitTests.runtimeconfig.dev.json
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriterUnitTests.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriterUnitTests.pdb
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriter.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\bin\Debug\netcoreapp2.2\CsvWriter.pdb
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.csproj.CopyComplete
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.dll
+C:\Users\Ziad\RiderProjects\Performance\CsvWriterUnitTests\obj\Debug\netcoreapp2.2\CsvWriterUnitTests.pdb

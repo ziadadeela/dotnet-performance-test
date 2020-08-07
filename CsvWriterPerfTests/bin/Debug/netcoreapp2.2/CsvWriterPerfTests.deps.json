@@ -1,0 +1,384 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "94232ae2a3822b0f5f2a017d40897e6ba7bee4e9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CsvWriterPerfTests/1.0.0": {
+        "dependencies": {
+          "CsvWriter": "1.0.0",
+          "xunit.performance.api": "1.0.0-beta-build0020"
+        },
+        "runtime": {
+          "CsvWriterPerfTests.dll": {}
+        }
+      },
+      "CommandLineParser.NS20/2.3.1": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "assemblyVersion": "2.3.1.0",
+            "fileVersion": "2.3.1.0"
+          }
+        }
+      },
+      "MarkdownLog.NS20/0.10.1": {
+        "runtime": {
+          "lib/netstandard2.0/MarkdownLog.dll": {
+            "assemblyVersion": "0.10.1.0",
+            "fileVersion": "0.10.1.0"
+          }
+        }
+      },
+      "Microsoft.Diagnostics.Tracing.TraceEvent/2.0.5": {
+        "runtime": {
+          "lib/netstandard1.6/Dia2Lib.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard1.6/Microsoft.Diagnostics.FastSerialization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.6/Microsoft.Diagnostics.Tracing.TraceEvent.dll": {
+            "assemblyVersion": "2.0.5.0",
+            "fileVersion": "2.0.5.0"
+          },
+          "lib/netstandard1.6/OSExtensions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.6/TraceReloggerLib.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.IO/4.1.0": {
+        "dependencies": {
+          "System.Runtime": "4.1.0",
+          "System.Text.Encoding": "4.0.11",
+          "System.Threading.Tasks": "4.0.11"
+        }
+      },
+      "System.Reflection/4.1.0": {
+        "dependencies": {
+          "System.IO": "4.1.0",
+          "System.Reflection.Primitives": "4.0.1",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Reflection.Primitives/4.0.1": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Runtime/4.1.0": {},
+      "System.Runtime.Loader/4.0.0": {
+        "dependencies": {
+          "System.IO": "4.1.0",
+          "System.Reflection": "4.1.0",
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Text.Encoding/4.0.11": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "System.Threading.Tasks/4.0.11": {
+        "dependencies": {
+          "System.Runtime": "4.1.0"
+        }
+      },
+      "xunit/2.4.0": {
+        "dependencies": {
+          "xunit.analyzers": "0.10.0",
+          "xunit.assert": "2.4.0",
+          "xunit.core": "2.4.0"
+        }
+      },
+      "xunit.abstractions/2.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "xunit.analyzers/0.10.0": {},
+      "xunit.assert/2.4.0": {
+        "runtime": {
+          "lib/netstandard2.0/xunit.assert.dll": {
+            "assemblyVersion": "2.4.0.4049",
+            "fileVersion": "2.4.0.4049"
+          }
+        }
+      },
+      "xunit.core/2.4.0": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.4.0",
+          "xunit.extensibility.execution": "2.4.0"
+        }
+      },
+      "xunit.extensibility.core/2.4.0": {
+        "dependencies": {
+          "xunit.abstractions": "2.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/xunit.core.dll": {
+            "assemblyVersion": "2.4.0.4049",
+            "fileVersion": "2.4.0.4049"
+          }
+        }
+      },
+      "xunit.extensibility.execution/2.4.0": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/xunit.execution.dotnet.dll": {
+            "assemblyVersion": "2.4.0.4049",
+            "fileVersion": "2.4.0.4049"
+          }
+        }
+      },
+      "xunit.performance.api/1.0.0-beta-build0020": {
+        "dependencies": {
+          "CommandLineParser.NS20": "2.3.1",
+          "MarkdownLog.NS20": "0.10.1",
+          "Microsoft.Diagnostics.Tracing.TraceEvent": "2.0.5",
+          "xunit.performance.core": "1.0.0-beta-build0020",
+          "xunit.performance.execution": "1.0.0-beta-build0020",
+          "xunit.performance.metrics": "1.0.0-beta-build0020",
+          "xunit.runner.utility": "2.4.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/xunit.performance.api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "xunit.performance.core/1.0.0-beta-build0020": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/xunit.performance.core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "xunit.performance.execution/1.0.0-beta-build0020": {
+        "dependencies": {
+          "xunit": "2.4.0",
+          "xunit.performance.core": "1.0.0-beta-build0020"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/xunit.performance.execution.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "xunit.performance.metrics/1.0.0-beta-build0020": {
+        "dependencies": {
+          "Microsoft.Diagnostics.Tracing.TraceEvent": "2.0.5",
+          "xunit.performance.core": "1.0.0-beta-build0020"
+        },
+        "runtime": {
+          "lib/netstandard2.0/xunit.performance.metrics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "xunit.runner.utility/2.4.0": {
+        "dependencies": {
+          "System.Runtime.Loader": "4.0.0",
+          "xunit.abstractions": "2.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp1.0/xunit.runner.utility.netcoreapp10.dll": {
+            "assemblyVersion": "2.4.0.4049",
+            "fileVersion": "2.4.0.4049"
+          }
+        }
+      },
+      "CsvWriter/1.0.0": {
+        "runtime": {
+          "CsvWriter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CsvWriterPerfTests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLineParser.NS20/2.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DzXd/TBb1eMu/mAWicTityWdtSk+V3v9Te4tEwBiQkW7hLdf7oD3S7kt4o75KYsko1675Z5UKMdiq2GJ0CSf0w==",
+      "path": "commandlineparser.ns20/2.3.1",
+      "hashPath": "commandlineparser.ns20.2.3.1.nupkg.sha512"
+    },
+    "MarkdownLog.NS20/0.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YL9/q7bKuRR05ixGJMe9TKjdIvHaWu5SqQ8eKQAmuM6/jueS9Yq9jEIgqhRy3FS4tctXevceNz4YLmNIJ66fyQ==",
+      "path": "markdownlog.ns20/0.10.1",
+      "hashPath": "markdownlog.ns20.0.10.1.nupkg.sha512"
+    },
+    "Microsoft.Diagnostics.Tracing.TraceEvent/2.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ANRX4icGCmJuEYveK/F96zd9kXD37h01OXWZkivRe7G7r1J6nDxafzT+4HkptxV7EWNvJvv6XT0GFUwOaDK66A==",
+      "path": "microsoft.diagnostics.tracing.traceevent/2.0.5",
+      "hashPath": "microsoft.diagnostics.tracing.traceevent.2.0.5.nupkg.sha512"
+    },
+    "System.IO/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3KlTJceQc3gnGIaHZ7UBZO26SHL1SHE4ddrmiwumFnId+CEHP+O8r386tZKaE6zlk5/mF8vifMBzHj9SaXN+mQ==",
+      "path": "system.io/4.1.0",
+      "hashPath": "system.io.4.1.0.nupkg.sha512"
+    },
+    "System.Reflection/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JCKANJ0TI7kzoQzuwB/OoJANy1Lg338B6+JVacPl4TpUwi3cReg3nMLplMq2uqYfHFQpKIlHAUVAJlImZz/4ng==",
+      "path": "system.reflection/4.1.0",
+      "hashPath": "system.reflection.4.1.0.nupkg.sha512"
+    },
+    "System.Reflection.Primitives/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4inTox4wTBaDhB7V3mPvp9XlCbeGYWVEM9/fXALd52vNEAVisc1BoVWQPuUuD0Ga//dNbA/WeMy9u9mzLxGTHQ==",
+      "path": "system.reflection.primitives/4.0.1",
+      "hashPath": "system.reflection.primitives.4.0.1.nupkg.sha512"
+    },
+    "System.Runtime/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v6c/4Yaa9uWsq+JMhnOFewrYkgdNHNG2eMKuNqRn8P733rNXeRCGvV5FkkjBXn2dbVkPXOsO0xjsEeM1q2zC0g==",
+      "path": "system.runtime/4.1.0",
+      "hashPath": "system.runtime.4.1.0.nupkg.sha512"
+    },
+    "System.Runtime.Loader/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4UN78GOVU/mbDFcXkEWtetJT/sJ0yic2gGk1HSlSpWI0TDf421xnrZTDZnwNBapk1GQeYN7U1lTj/aQB1by6ow==",
+      "path": "system.runtime.loader/4.0.0",
+      "hashPath": "system.runtime.loader.4.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding/4.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U3gGeMlDZXxCEiY4DwVLSacg+DFWCvoiX+JThA/rvw37Sqrku7sEFeVBBBMBnfB6FeZHsyDx85HlKL19x0HtZA==",
+      "path": "system.text.encoding/4.0.11",
+      "hashPath": "system.text.encoding.4.0.11.nupkg.sha512"
+    },
+    "System.Threading.Tasks/4.0.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k1S4Gc6IGwtHGT8188RSeGaX86Qw/wnrgNLshJvsdNUOPP9etMmo8S07c+UlOAx4K/xLuN9ivA1bD0LVurtIxQ==",
+      "path": "system.threading.tasks/4.0.11",
+      "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
+    },
+    "xunit/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NL00nGsDsyWc1CWxz5FXXjLpW9oFG18WJoTPCyhNv4KGP/e5iLJqAqgM1uaJZyQ6WaTtmWIy4yjYP3RdcaT7Vw==",
+      "path": "xunit/2.4.0",
+      "hashPath": "xunit.2.4.0.nupkg.sha512"
+    },
+    "xunit.abstractions/2.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vItLB0WkaKg0426RgWq+ZdXH6D+YV/uH28C0weWMOBnVx7I+luHuEYss9hoOngpkiN5kUpLvh9VZRx1H2sk59A==",
+      "path": "xunit.abstractions/2.0.2",
+      "hashPath": "xunit.abstractions.2.0.2.nupkg.sha512"
+    },
+    "xunit.analyzers/0.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4/IDFCJfIeg6bix9apmUtIMwvOsiwqdEexeO/R2D4GReIGPLIRODTpId/l4LRSrAJk9lEO3Zx1H0Zx6uohJDNg==",
+      "path": "xunit.analyzers/0.10.0",
+      "hashPath": "xunit.analyzers.0.10.0.nupkg.sha512"
+    },
+    "xunit.assert/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Swvkm6iTjZr8TiUj5vMnmfG+2dD4s/BIBgsVOzTxxmoq2ndGsmM2WIL4wuqJ8RhxydWIDOPpIaaytjT2pMTEdg==",
+      "path": "xunit.assert/2.4.0",
+      "hashPath": "xunit.assert.2.4.0.nupkg.sha512"
+    },
+    "xunit.core/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BJ/O/tPEcHUCwQYuwqXoYccTMyw6B5dA6yh7WxWWBhKbjqTsG9RWL0nCQXM5yQYJwUuFzBkiXDPN1BO6UdBB4Q==",
+      "path": "xunit.core/2.4.0",
+      "hashPath": "xunit.core.2.4.0.nupkg.sha512"
+    },
+    "xunit.extensibility.core/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qr/KrR6uukHXD9e/lLQjyCPfMEDuvvhNFDzsYzCF2kKlYKiqcADfUvA9Q68rBtKFtwHFeghjWEuv15KoGD2SfA==",
+      "path": "xunit.extensibility.core/2.4.0",
+      "hashPath": "xunit.extensibility.core.2.4.0.nupkg.sha512"
+    },
+    "xunit.extensibility.execution/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-252Dzn7i5bMPKtAL15aOP3qJhxKd+57I8ldwIQRJa745JxQuiBu5Da0vtIISVTtc3buRSkBwVnD9iUzsEmCzZA==",
+      "path": "xunit.extensibility.execution/2.4.0",
+      "hashPath": "xunit.extensibility.execution.2.4.0.nupkg.sha512"
+    },
+    "xunit.performance.api/1.0.0-beta-build0020": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-g3PBQoIZUJjawwVEs3TZ8geBYi+fhAl0qzG/9syx8Wnkvl3YDSeomrfBHgcQv8gu7mYcYp2xcd8LMed8VXXVMg==",
+      "path": "xunit.performance.api/1.0.0-beta-build0020",
+      "hashPath": "xunit.performance.api.1.0.0-beta-build0020.nupkg.sha512"
+    },
+    "xunit.performance.core/1.0.0-beta-build0020": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-D8BIpCpES/utKhfLTON+r68g1KiyhHIAWHw0kS91Z9lmY4wZ9EYTonSer6CDLLphbcJpX2ZOQBkvONicVOWXbA==",
+      "path": "xunit.performance.core/1.0.0-beta-build0020",
+      "hashPath": "xunit.performance.core.1.0.0-beta-build0020.nupkg.sha512"
+    },
+    "xunit.performance.execution/1.0.0-beta-build0020": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-piBQnbd0l4IIVPxG7It/1wRO4sIKU6N8TviI3dLWEysAEXjBBhvedXlU2aLlGTrQ3np8HQ8kOHMpqNlQnzawpw==",
+      "path": "xunit.performance.execution/1.0.0-beta-build0020",
+      "hashPath": "xunit.performance.execution.1.0.0-beta-build0020.nupkg.sha512"
+    },
+    "xunit.performance.metrics/1.0.0-beta-build0020": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a0lS2ZPHf2tiH2bCoI4nuGVj4Y5VxZ0VGpnENSkkapbSJqzzx/E1Tzh1ymcHt30kWSCtmxrfeGYM7cuTkloT3Q==",
+      "path": "xunit.performance.metrics/1.0.0-beta-build0020",
+      "hashPath": "xunit.performance.metrics.1.0.0-beta-build0020.nupkg.sha512"
+    },
+    "xunit.runner.utility/2.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xotAKe4PsJW31n4decahOJCLWL6PVpTLz+MwJfuBL1vzp+vOCjddp6i1Rob5PYaHou7gQsuroUPUoY61Wca2VQ==",
+      "path": "xunit.runner.utility/2.4.0",
+      "hashPath": "xunit.runner.utility.2.4.0.nupkg.sha512"
+    },
+    "CsvWriter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

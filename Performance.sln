@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvWriter", "CsvWriter\CsvWriter.csproj", "{6713CC3B-B551-4F18-8806-FE04DF8BB76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvWriterUnitTests", "CsvWriterUnitTests\CsvWriterUnitTests.csproj", "{404EEE7B-E9B9-4D1C-A6B7-726A34260E9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvWriterPerfTests", "CsvWriterPerfTests\CsvWriterPerfTests.csproj", "{95C03440-4DAE-4476-AB37-64B381852940}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6713CC3B-B551-4F18-8806-FE04DF8BB76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6713CC3B-B551-4F18-8806-FE04DF8BB76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6713CC3B-B551-4F18-8806-FE04DF8BB76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6713CC3B-B551-4F18-8806-FE04DF8BB76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404EEE7B-E9B9-4D1C-A6B7-726A34260E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404EEE7B-E9B9-4D1C-A6B7-726A34260E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404EEE7B-E9B9-4D1C-A6B7-726A34260E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404EEE7B-E9B9-4D1C-A6B7-726A34260E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95C03440-4DAE-4476-AB37-64B381852940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C03440-4DAE-4476-AB37-64B381852940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C03440-4DAE-4476-AB37-64B381852940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C03440-4DAE-4476-AB37-64B381852940}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

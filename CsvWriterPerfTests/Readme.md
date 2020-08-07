@@ -1,0 +1,1 @@
+Command to execute: dotnet run --perf:collect stopwatch

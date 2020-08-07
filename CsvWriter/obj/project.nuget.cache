@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfOU9N7CsAXD2gALffZriPAU1N0/kN5cj4N9lQ2jMmvYNHZYOVIilzhKLc+YXaJW3z4LXjEGZ6Z9YQwr6e50ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ziad\\RiderProjects\\Performance\\CsvWriter\\CsvWriter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ziad\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
